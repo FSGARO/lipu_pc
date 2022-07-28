@@ -1,0 +1,16 @@
+{
+  "id": "2757348",
+  "name": "lipu",
+  "font_family": "iconfont",
+  "css_prefix_text": "lipu-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16981278",
+      "name": "微信小程序@2x",
+      "font_class": "weixinxiaochengxu2x",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
